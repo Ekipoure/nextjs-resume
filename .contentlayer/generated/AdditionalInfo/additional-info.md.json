@@ -1,0 +1,16 @@
+{
+  "title": "Hobbies & Interests",
+  "body": {
+    "raw": "\n- **Blockchain & Cryptocurrency**: Passionate about exploring the latest trends in blockchain technology, decentralized finance (DeFi), and cryptocurrency trading. Continuously learning and experimenting with new developments in the Ethereum ecosystem.\n- **AI & Machine Learning**: Enthusiastic about artificial intelligence and machine learning, particularly in creating AI-driven applications and integrating AI technologies into various platforms.\n- **Game Development**: Interested in developing interactive and gamified web applications, with a focus on integrating blockchain-based rewards and systems.\n- **Tech Innovation**: Enjoy experimenting with new technologies and frameworks, including the latest developments in web development, serverless architecture, and cloud deployments.\n- **Music & Audio Production**: Have a deep interest in music, including creating and producing tracks in my free time. Exploring how technology can enhance the music experience.\n- **Open Source Contribution**: Actively involved in contributing to open-source projects, helping to improve the community and learn from other developers.\n- **Travel & Culture**: Enjoy learning about different cultures, traveling, and experiencing new places, which helps broaden my perspective and fuels my creativity in tech development.",
+    "html": "<ul>\n<li><strong>Blockchain &#x26; Cryptocurrency</strong>: Passionate about exploring the latest trends in blockchain technology, decentralized finance (DeFi), and cryptocurrency trading. Continuously learning and experimenting with new developments in the Ethereum ecosystem.</li>\n<li><strong>AI &#x26; Machine Learning</strong>: Enthusiastic about artificial intelligence and machine learning, particularly in creating AI-driven applications and integrating AI technologies into various platforms.</li>\n<li><strong>Game Development</strong>: Interested in developing interactive and gamified web applications, with a focus on integrating blockchain-based rewards and systems.</li>\n<li><strong>Tech Innovation</strong>: Enjoy experimenting with new technologies and frameworks, including the latest developments in web development, serverless architecture, and cloud deployments.</li>\n<li><strong>Music &#x26; Audio Production</strong>: Have a deep interest in music, including creating and producing tracks in my free time. Exploring how technology can enhance the music experience.</li>\n<li><strong>Open Source Contribution</strong>: Actively involved in contributing to open-source projects, helping to improve the community and learn from other developers.</li>\n<li><strong>Travel &#x26; Culture</strong>: Enjoy learning about different cultures, traveling, and experiencing new places, which helps broaden my perspective and fuels my creativity in tech development.</li>\n</ul>"
+  },
+  "_id": "additional-info.md",
+  "_raw": {
+    "sourceFilePath": "additional-info.md",
+    "sourceFileName": "additional-info.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "additional-info"
+  },
+  "type": "AdditionalInfo"
+}

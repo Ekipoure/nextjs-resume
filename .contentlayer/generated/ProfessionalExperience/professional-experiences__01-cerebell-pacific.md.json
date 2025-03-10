@@ -1,0 +1,25 @@
+{
+  "organization": "Web3 - Etherum",
+  "titles": [
+    {
+      "title": "🛠️ Ethereum Trading Telegram Bot",
+      "startDate": "",
+      "endDate": "",
+      "type": "ProfessionalTitle",
+      "_raw": {}
+    }
+  ],
+  "body": {
+    "raw": "\n\nCollaborated with a specialized team to develop an advanced **Ethereum trading bot** fully integrated with **Telegram**, designed for seamless and automated trading operations.\n\n##### Key Features:\n- **Auto Buy** – Automatically execute buy orders based on real-time signals.\n- **Take Profit** – Secure profits at predefined target levels.\n- **Custom Take Profit** – Users can set personalized take profit strategies.\n- **Auto Snipe** – Instantly detect and snipe newly launched tokens.\n- **Transaction Speed Control** – Adjust gas fees to prioritize transaction speed.\n- **Anti-Rug Protection** – Built-in safety mechanisms to detect and avoid rug pulls.\n- **Remove Liquidity Tokens from Tracking** – Exclude specific tokens from liquidity tracking.\n\n##### Highlights:\n- Optimized for speed and security to ensure rapid, reliable, and safe transactions through **Telegram**.\n- Designed intuitive user commands and workflows, making advanced DeFi trading simple and accessible.\n- Integrated with the **Ethereum blockchain** to monitor live mempool data and execute trades in real-time.\n",
+    "html": "<p>Collaborated with a specialized team to develop an advanced <strong>Ethereum trading bot</strong> fully integrated with <strong>Telegram</strong>, designed for seamless and automated trading operations.</p>\n<h5>Key Features:</h5>\n<ul>\n<li><strong>Auto Buy</strong> – Automatically execute buy orders based on real-time signals.</li>\n<li><strong>Take Profit</strong> – Secure profits at predefined target levels.</li>\n<li><strong>Custom Take Profit</strong> – Users can set personalized take profit strategies.</li>\n<li><strong>Auto Snipe</strong> – Instantly detect and snipe newly launched tokens.</li>\n<li><strong>Transaction Speed Control</strong> – Adjust gas fees to prioritize transaction speed.</li>\n<li><strong>Anti-Rug Protection</strong> – Built-in safety mechanisms to detect and avoid rug pulls.</li>\n<li><strong>Remove Liquidity Tokens from Tracking</strong> – Exclude specific tokens from liquidity tracking.</li>\n</ul>\n<h5>Highlights:</h5>\n<ul>\n<li>Optimized for speed and security to ensure rapid, reliable, and safe transactions through <strong>Telegram</strong>.</li>\n<li>Designed intuitive user commands and workflows, making advanced DeFi trading simple and accessible.</li>\n<li>Integrated with the <strong>Ethereum blockchain</strong> to monitor live mempool data and execute trades in real-time.</li>\n</ul>"
+  },
+  "_id": "professional-experiences/01-cerebell-pacific.md",
+  "_raw": {
+    "sourceFilePath": "professional-experiences/01-cerebell-pacific.md",
+    "sourceFileName": "01-cerebell-pacific.md",
+    "sourceFileDir": "professional-experiences",
+    "contentType": "markdown",
+    "flattenedPath": "professional-experiences/01-cerebell-pacific"
+  },
+  "type": "ProfessionalExperience"
+}

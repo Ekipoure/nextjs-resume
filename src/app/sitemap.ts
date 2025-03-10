@@ -1,7 +1,10 @@
-import { MetadataRoute } from 'next';
-import { deployURL } from 'src/helpers/environment';
+import { MetadataRoute } from "next";
+import { deployURL } from "src/helpers/environment";
 
-const baseURL = `https://${deployURL ?? ''}`;
+export const dynamic = "force-static"; // Ensures full static export
+export const revalidate = false; // Disables ISR
+
+const baseURL = deployURL ? `https://${deployURL}` : "https://ekipoure.ir";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [

@@ -1,0 +1,272 @@
+{
+  "cacheItemsMap": {
+    "additional-info.md": {
+      "document": {
+        "title": "Hobbies & Interests",
+        "body": {
+          "raw": "\n- **Blockchain & Cryptocurrency**: Passionate about exploring the latest trends in blockchain technology, decentralized finance (DeFi), and cryptocurrency trading. Continuously learning and experimenting with new developments in the Ethereum ecosystem.\n- **AI & Machine Learning**: Enthusiastic about artificial intelligence and machine learning, particularly in creating AI-driven applications and integrating AI technologies into various platforms.\n- **Game Development**: Interested in developing interactive and gamified web applications, with a focus on integrating blockchain-based rewards and systems.\n- **Tech Innovation**: Enjoy experimenting with new technologies and frameworks, including the latest developments in web development, serverless architecture, and cloud deployments.\n- **Music & Audio Production**: Have a deep interest in music, including creating and producing tracks in my free time. Exploring how technology can enhance the music experience.\n- **Open Source Contribution**: Actively involved in contributing to open-source projects, helping to improve the community and learn from other developers.\n- **Travel & Culture**: Enjoy learning about different cultures, traveling, and experiencing new places, which helps broaden my perspective and fuels my creativity in tech development.",
+          "html": "<ul>\n<li><strong>Blockchain &#x26; Cryptocurrency</strong>: Passionate about exploring the latest trends in blockchain technology, decentralized finance (DeFi), and cryptocurrency trading. Continuously learning and experimenting with new developments in the Ethereum ecosystem.</li>\n<li><strong>AI &#x26; Machine Learning</strong>: Enthusiastic about artificial intelligence and machine learning, particularly in creating AI-driven applications and integrating AI technologies into various platforms.</li>\n<li><strong>Game Development</strong>: Interested in developing interactive and gamified web applications, with a focus on integrating blockchain-based rewards and systems.</li>\n<li><strong>Tech Innovation</strong>: Enjoy experimenting with new technologies and frameworks, including the latest developments in web development, serverless architecture, and cloud deployments.</li>\n<li><strong>Music &#x26; Audio Production</strong>: Have a deep interest in music, including creating and producing tracks in my free time. Exploring how technology can enhance the music experience.</li>\n<li><strong>Open Source Contribution</strong>: Actively involved in contributing to open-source projects, helping to improve the community and learn from other developers.</li>\n<li><strong>Travel &#x26; Culture</strong>: Enjoy learning about different cultures, traveling, and experiencing new places, which helps broaden my perspective and fuels my creativity in tech development.</li>\n</ul>"
+        },
+        "_id": "additional-info.md",
+        "_raw": {
+          "sourceFilePath": "additional-info.md",
+          "sourceFileName": "additional-info.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "additional-info"
+        },
+        "type": "AdditionalInfo"
+      },
+      "documentHash": "1741253733255",
+      "hasWarnings": false,
+      "documentTypeName": "AdditionalInfo"
+    },
+    "personal.md": {
+      "document": {
+        "givenName": "Amir",
+        "familyName": "Ghafari",
+        "title": "Developer",
+        "location": "Iran, Hamedan",
+        "body": {
+          "raw": "\nExperienced in Node.js, TypeScript, JavaScript, React, Next.js, and ASP.NET Core, with a strong\nfoundation in full-stack development. Skilled in designing scalable back-end architectures,\noptimizing database queries, and building high-performance APIs. Proficient in SQL & NoSQL\n(MongoDB, PostgreSQL), query optimization, and schema design. Experienced with Vite,\nRESTful APIs, authentication, and cloud deployments. Passionate about clean code, modular\ndesign, and best practices. Familiar with Agile, Scrum, and Git.",
+          "html": "<p>Experienced in Node.js, TypeScript, JavaScript, React, Next.js, and ASP.NET Core, with a strong\nfoundation in full-stack development. Skilled in designing scalable back-end architectures,\noptimizing database queries, and building high-performance APIs. Proficient in SQL &#x26; NoSQL\n(MongoDB, PostgreSQL), query optimization, and schema design. Experienced with Vite,\nRESTful APIs, authentication, and cloud deployments. Passionate about clean code, modular\ndesign, and best practices. Familiar with Agile, Scrum, and Git.</p>"
+        },
+        "_id": "personal.md",
+        "_raw": {
+          "sourceFilePath": "personal.md",
+          "sourceFileName": "personal.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "personal"
+        },
+        "type": "Personal"
+      },
+      "documentHash": "1741244857510",
+      "hasWarnings": false,
+      "documentTypeName": "Personal"
+    },
+    "achievements/00-degree.md": {
+      "document": {
+        "achievement": "Web Developer",
+        "organization": "Breakout Team",
+        "completionYear": 2023,
+        "body": {
+          "raw": "\nContributed to the development of multiple blockchain-based platforms, including an advanced **Ethereum Token Audit Platform**, a **meme coin interactive website** with gamified airdrops, and an **AI-powered chatbot system**. Focused on building scalable, high-performance web applications using **Next.js**, **TypeScript**, and **MongoDB** in a fully remote international team.\n\n",
+          "html": "<p>Contributed to the development of multiple blockchain-based platforms, including an advanced <strong>Ethereum Token Audit Platform</strong>, a <strong>meme coin interactive website</strong> with gamified airdrops, and an <strong>AI-powered chatbot system</strong>. Focused on building scalable, high-performance web applications using <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>MongoDB</strong> in a fully remote international team.</p>"
+        },
+        "_id": "achievements/00-degree.md",
+        "_raw": {
+          "sourceFilePath": "achievements/00-degree.md",
+          "sourceFileName": "00-degree.md",
+          "sourceFileDir": "achievements",
+          "contentType": "markdown",
+          "flattenedPath": "achievements/00-degree"
+        },
+        "type": "Achievement"
+      },
+      "documentHash": "1741253054554",
+      "hasWarnings": false,
+      "documentTypeName": "Achievement"
+    },
+    "achievements/01-certification.md": {
+      "document": {
+        "achievement": "Blockchain Trading Bot Developer",
+        "organization": "Ethereum Trading Bot Team",
+        "completionYear": 2023,
+        "body": {
+          "raw": "Collaborated in a specialized team to create a secure and high-speed **Telegram trading bot** for Ethereum. Implemented key features such as **Auto Buy**, **Auto Snipe**, **Custom Take Profit**, **Anti-Rug Protection**, and **Transaction Speed Control** with live blockchain data integration and optimized trade execution.\n",
+          "html": "<p>Collaborated in a specialized team to create a secure and high-speed <strong>Telegram trading bot</strong> for Ethereum. Implemented key features such as <strong>Auto Buy</strong>, <strong>Auto Snipe</strong>, <strong>Custom Take Profit</strong>, <strong>Anti-Rug Protection</strong>, and <strong>Transaction Speed Control</strong> with live blockchain data integration and optimized trade execution.</p>"
+        },
+        "_id": "achievements/01-certification.md",
+        "_raw": {
+          "sourceFilePath": "achievements/01-certification.md",
+          "sourceFileName": "01-certification.md",
+          "sourceFileDir": "achievements",
+          "contentType": "markdown",
+          "flattenedPath": "achievements/01-certification"
+        },
+        "type": "Achievement"
+      },
+      "documentHash": "1741253074855",
+      "hasWarnings": false,
+      "documentTypeName": "Achievement"
+    },
+    "professional-experiences/00-the-deaily-observer.md": {
+      "document": {
+        "organization": "Some work experience",
+        "titles": [
+          {
+            "title": "TokenAudit Platform",
+            "startDate": "",
+            "endDate": "",
+            "description": "Ethereum TokenAudit Platform Developed a full-featured web application for analyzing Ethereum tokens using Next.js, TypeScript, and MongoDB. Engineered an automated system with over 15 specialized bots (such as TTFBot and SafeAnalyzerBot) to evaluate token security and risk factors. Integrated live Ethereum blockchain data for real-time token analysis. Optimized API performance and database queries for high scalability and speed. Designed a responsive, user-friendly interface ensuring seamless user experience.",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          },
+          {
+            "title": "FRACKING",
+            "startDate": "",
+            "endDate": "",
+            "description": "Built an interactive website for the FRACKING Trump meme coin using Next.js, TypeScript, and MongoDB. Developed a gamified airdrop system, where users earn rewards by interacting with themed elements. Ensured backend performance with optimized MongoDB handling and smooth scalability. Delivered a high-performance, responsive design for all devices.",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          },
+          {
+            "title": "AI-Powered Marketing Chatbot Platform",
+            "startDate": "",
+            "endDate": "",
+            "description": "Created a dynamic platform featuring three AI agents that assist users with marketing advice through live chat.\nIntegrated real-time form generation, automatically capturing user input during conversations and storing it in the database.\nFocused on delivering a smooth, real-time user experience with efficient backend operations. With ElizaOS.\n",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          },
+          {
+            "title": "AI Agent Generator Platform",
+            "startDate": "",
+            "endDate": "",
+            "description": "Developed a web application that allows users to generate and download custom AI agents based on their specific needs.\nDesigned an intuitive interface where users input configurations to dynamically create personalized agents.\nImplemented a backend system that builds the agent logic and packages it for seamless download and deployment.\nFocused on scalability, performance, and ensuring the generated agents are optimized for real-world tasks.\nDelivered a user-friendly and responsive design, making the process smooth from input to download.\n",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          },
+          {
+            "title": "Signal Advertising System with AI & ElizaOS",
+            "startDate": "",
+            "endDate": "",
+            "description": "Developed an automated advertising system for Ethereum tokens using AI and ElizaOS.\nAnalyzed real-time token data to generate custom, engaging promotional content based on market signals.\nAutomated content creation and posting to Twitter, boosting token visibility and user engagement.\nLeveraged machine learning to continuously optimize message relevance and performance based on user interactions and feedback.\n",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          }
+        ],
+        "body": {
+          "raw": "- [TokenAudit](https://tokeninfo-9ew8n.ondigitalocean.app)\n- [FRACKING](https://fracking-nine.vercel.app/)\n- [Marketing](http://167.99.246.179:4173/)\n- [Agent Generator](http://167.99.246.179:3006/)\n- [Signal Advertising](https://x.com/Blocks4crypto)",
+          "html": "<ul>\n<li><a href=\"https://tokeninfo-9ew8n.ondigitalocean.app\">TokenAudit</a></li>\n<li><a href=\"https://fracking-nine.vercel.app/\">FRACKING</a></li>\n<li><a href=\"http://167.99.246.179:4173/\">Marketing</a></li>\n<li><a href=\"http://167.99.246.179:3006/\">Agent Generator</a></li>\n<li><a href=\"https://x.com/Blocks4crypto\">Signal Advertising</a></li>\n</ul>"
+        },
+        "_id": "professional-experiences/00-the-deaily-observer.md",
+        "_raw": {
+          "sourceFilePath": "professional-experiences/00-the-deaily-observer.md",
+          "sourceFileName": "00-the-deaily-observer.md",
+          "sourceFileDir": "professional-experiences",
+          "contentType": "markdown",
+          "flattenedPath": "professional-experiences/00-the-deaily-observer"
+        },
+        "type": "ProfessionalExperience"
+      },
+      "documentHash": "1741258477207",
+      "hasWarnings": false,
+      "documentTypeName": "ProfessionalExperience"
+    },
+    "professional-experiences/01-cerebell-pacific.md": {
+      "document": {
+        "organization": "Web3 - Etherum",
+        "titles": [
+          {
+            "title": "🛠️ Ethereum Trading Telegram Bot",
+            "startDate": "",
+            "endDate": "",
+            "type": "ProfessionalTitle",
+            "_raw": {}
+          }
+        ],
+        "body": {
+          "raw": "\n\nCollaborated with a specialized team to develop an advanced **Ethereum trading bot** fully integrated with **Telegram**, designed for seamless and automated trading operations.\n\n##### Key Features:\n- **Auto Buy** – Automatically execute buy orders based on real-time signals.\n- **Take Profit** – Secure profits at predefined target levels.\n- **Custom Take Profit** – Users can set personalized take profit strategies.\n- **Auto Snipe** – Instantly detect and snipe newly launched tokens.\n- **Transaction Speed Control** – Adjust gas fees to prioritize transaction speed.\n- **Anti-Rug Protection** – Built-in safety mechanisms to detect and avoid rug pulls.\n- **Remove Liquidity Tokens from Tracking** – Exclude specific tokens from liquidity tracking.\n\n##### Highlights:\n- Optimized for speed and security to ensure rapid, reliable, and safe transactions through **Telegram**.\n- Designed intuitive user commands and workflows, making advanced DeFi trading simple and accessible.\n- Integrated with the **Ethereum blockchain** to monitor live mempool data and execute trades in real-time.\n",
+          "html": "<p>Collaborated with a specialized team to develop an advanced <strong>Ethereum trading bot</strong> fully integrated with <strong>Telegram</strong>, designed for seamless and automated trading operations.</p>\n<h5>Key Features:</h5>\n<ul>\n<li><strong>Auto Buy</strong> – Automatically execute buy orders based on real-time signals.</li>\n<li><strong>Take Profit</strong> – Secure profits at predefined target levels.</li>\n<li><strong>Custom Take Profit</strong> – Users can set personalized take profit strategies.</li>\n<li><strong>Auto Snipe</strong> – Instantly detect and snipe newly launched tokens.</li>\n<li><strong>Transaction Speed Control</strong> – Adjust gas fees to prioritize transaction speed.</li>\n<li><strong>Anti-Rug Protection</strong> – Built-in safety mechanisms to detect and avoid rug pulls.</li>\n<li><strong>Remove Liquidity Tokens from Tracking</strong> – Exclude specific tokens from liquidity tracking.</li>\n</ul>\n<h5>Highlights:</h5>\n<ul>\n<li>Optimized for speed and security to ensure rapid, reliable, and safe transactions through <strong>Telegram</strong>.</li>\n<li>Designed intuitive user commands and workflows, making advanced DeFi trading simple and accessible.</li>\n<li>Integrated with the <strong>Ethereum blockchain</strong> to monitor live mempool data and execute trades in real-time.</li>\n</ul>"
+        },
+        "_id": "professional-experiences/01-cerebell-pacific.md",
+        "_raw": {
+          "sourceFilePath": "professional-experiences/01-cerebell-pacific.md",
+          "sourceFileName": "01-cerebell-pacific.md",
+          "sourceFileDir": "professional-experiences",
+          "contentType": "markdown",
+          "flattenedPath": "professional-experiences/01-cerebell-pacific"
+        },
+        "type": "ProfessionalExperience"
+      },
+      "documentHash": "1741258450491",
+      "hasWarnings": false,
+      "documentTypeName": "ProfessionalExperience"
+    },
+    "private-fields/00-WARNING.md": {
+      "document": {
+        "label": "WARNING",
+        "body": {
+          "raw": "\n**Please be aware** of the security concerns of commiting private information to Git, whether it is a public or a private repo. See the README for more information on using the private feature, and note that we are not responsible if your data is exposed.\n",
+          "html": "<p><strong>Please be aware</strong> of the security concerns of commiting private information to Git, whether it is a public or a private repo. See the README for more information on using the private feature, and note that we are not responsible if your data is exposed.</p>"
+        },
+        "_id": "private-fields/00-WARNING.md",
+        "_raw": {
+          "sourceFilePath": "private-fields/00-WARNING.md",
+          "sourceFileName": "00-WARNING.md",
+          "sourceFileDir": "private-fields",
+          "contentType": "markdown",
+          "flattenedPath": "private-fields/00-WARNING"
+        },
+        "type": "PrivateField"
+      },
+      "documentHash": "1740919170521",
+      "hasWarnings": false,
+      "documentTypeName": "PrivateField"
+    },
+    "skills/0.md": {
+      "document": {
+        "title": "Proficient",
+        "body": {
+          "raw": "\nNode.js,\nTypeScript,\nJavaScript,\nReact,\nNext.js,\nMongoDB,\nSQL & NoSQL (PostgreSQL, MySQL),\nRESTful APIs,\nGit,\nTailwind CSS,\nMUI,\nVite,\nAgile & Scrum,\nClean Code & Best Practices,\nWordpress,\nHTML & CSS,\nBootstrap 5,\nAuthentication Systems (JWT, OAuth)",
+          "html": "<p>Node.js,\nTypeScript,\nJavaScript,\nReact,\nNext.js,\nMongoDB,\nSQL &#x26; NoSQL (PostgreSQL, MySQL),\nRESTful APIs,\nGit,\nTailwind CSS,\nMUI,\nVite,\nAgile &#x26; Scrum,\nClean Code &#x26; Best Practices,\nWordpress,\nHTML &#x26; CSS,\nBootstrap 5,\nAuthentication Systems (JWT, OAuth)</p>"
+        },
+        "_id": "skills/0.md",
+        "_raw": {
+          "sourceFilePath": "skills/0.md",
+          "sourceFileName": "0.md",
+          "sourceFileDir": "skills",
+          "contentType": "markdown",
+          "flattenedPath": "skills/0"
+        },
+        "type": "Skill"
+      },
+      "documentHash": "1741421632182",
+      "hasWarnings": false,
+      "documentTypeName": "Skill"
+    },
+    "skills/1.md": {
+      "document": {
+        "title": "Comfortable",
+        "body": {
+          "raw": "\nASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments\n\n",
+          "html": "<p>ASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments</p>"
+        },
+        "_id": "skills/1.md",
+        "_raw": {
+          "sourceFilePath": "skills/1.md",
+          "sourceFileName": "1.md",
+          "sourceFileDir": "skills",
+          "contentType": "markdown",
+          "flattenedPath": "skills/1"
+        },
+        "type": "Skill"
+      },
+      "documentHash": "1741087996821",
+      "hasWarnings": false,
+      "documentTypeName": "Skill"
+    },
+    "skills/2.md": {
+      "document": {
+        "title": "Familiar",
+        "body": {
+          "raw": "\nMarketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems",
+          "html": "<p>Marketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems</p>"
+        },
+        "_id": "skills/2.md",
+        "_raw": {
+          "sourceFilePath": "skills/2.md",
+          "sourceFileName": "2.md",
+          "sourceFileDir": "skills",
+          "contentType": "markdown",
+          "flattenedPath": "skills/2"
+        },
+        "type": "Skill"
+      },
+      "documentHash": "1741087259513",
+      "hasWarnings": false,
+      "documentTypeName": "Skill"
+    }
+  }
+}

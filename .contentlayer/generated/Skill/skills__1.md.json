@@ -1,0 +1,16 @@
+{
+  "title": "Comfortable",
+  "body": {
+    "raw": "\nASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments\n\n",
+    "html": "<p>ASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments</p>"
+  },
+  "_id": "skills/1.md",
+  "_raw": {
+    "sourceFilePath": "skills/1.md",
+    "sourceFileName": "1.md",
+    "sourceFileDir": "skills",
+    "contentType": "markdown",
+    "flattenedPath": "skills/1"
+  },
+  "type": "Skill"
+}

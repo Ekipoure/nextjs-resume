@@ -1,0 +1,19 @@
+{
+  "givenName": "Amir",
+  "familyName": "Ghafari",
+  "title": "Developer",
+  "location": "Iran, Hamedan",
+  "body": {
+    "raw": "\nExperienced in Node.js, TypeScript, JavaScript, React, Next.js, and ASP.NET Core, with a strong\nfoundation in full-stack development. Skilled in designing scalable back-end architectures,\noptimizing database queries, and building high-performance APIs. Proficient in SQL & NoSQL\n(MongoDB, PostgreSQL), query optimization, and schema design. Experienced with Vite,\nRESTful APIs, authentication, and cloud deployments. Passionate about clean code, modular\ndesign, and best practices. Familiar with Agile, Scrum, and Git.",
+    "html": "<p>Experienced in Node.js, TypeScript, JavaScript, React, Next.js, and ASP.NET Core, with a strong\nfoundation in full-stack development. Skilled in designing scalable back-end architectures,\noptimizing database queries, and building high-performance APIs. Proficient in SQL &#x26; NoSQL\n(MongoDB, PostgreSQL), query optimization, and schema design. Experienced with Vite,\nRESTful APIs, authentication, and cloud deployments. Passionate about clean code, modular\ndesign, and best practices. Familiar with Agile, Scrum, and Git.</p>"
+  },
+  "_id": "personal.md",
+  "_raw": {
+    "sourceFilePath": "personal.md",
+    "sourceFileName": "personal.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "personal"
+  },
+  "type": "Personal"
+}

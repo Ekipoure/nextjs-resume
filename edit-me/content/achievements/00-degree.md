@@ -1,7 +1,8 @@
 ---
-achievement: Bachelor of Science, Journalism
-organization: Mentopolis University
-completionYear: 2016
+achievement: Web Developer
+organization: Breakout Team
+completionYear: 2023
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
+Contributed to the development of multiple blockchain-based platforms, including an advanced **Ethereum Token Audit Platform**, a **meme coin interactive website** with gamified airdrops, and an **AI-powered chatbot system**. Focused on building scalable, high-performance web applications using **Next.js**, **TypeScript**, and **MongoDB** in a fully remote international team.
+

@@ -27,7 +27,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
   const host = requestHeaders.get('host');
   const baseURL = `${protocol}://${host ?? deployURL ?? ''}`;
   const siteName = `${fullName} Professional Résumé`;
-  const title = `Résumé | ${fullName}`;
+  const title = fullName;
   const description = `Professional résumé for ${fullName}.`;
 
   return {

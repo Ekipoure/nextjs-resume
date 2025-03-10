@@ -1,0 +1,16 @@
+{
+  "title": "Familiar",
+  "body": {
+    "raw": "\nMarketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems",
+    "html": "<p>Marketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems</p>"
+  },
+  "_id": "skills/2.md",
+  "_raw": {
+    "sourceFilePath": "skills/2.md",
+    "sourceFileName": "2.md",
+    "sourceFileDir": "skills",
+    "contentType": "markdown",
+    "flattenedPath": "skills/2"
+  },
+  "type": "Skill"
+}

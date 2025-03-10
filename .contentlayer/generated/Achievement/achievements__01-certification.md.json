@@ -1,0 +1,18 @@
+{
+  "achievement": "Blockchain Trading Bot Developer",
+  "organization": "Ethereum Trading Bot Team",
+  "completionYear": 2023,
+  "body": {
+    "raw": "Collaborated in a specialized team to create a secure and high-speed **Telegram trading bot** for Ethereum. Implemented key features such as **Auto Buy**, **Auto Snipe**, **Custom Take Profit**, **Anti-Rug Protection**, and **Transaction Speed Control** with live blockchain data integration and optimized trade execution.\n",
+    "html": "<p>Collaborated in a specialized team to create a secure and high-speed <strong>Telegram trading bot</strong> for Ethereum. Implemented key features such as <strong>Auto Buy</strong>, <strong>Auto Snipe</strong>, <strong>Custom Take Profit</strong>, <strong>Anti-Rug Protection</strong>, and <strong>Transaction Speed Control</strong> with live blockchain data integration and optimized trade execution.</p>"
+  },
+  "_id": "achievements/01-certification.md",
+  "_raw": {
+    "sourceFilePath": "achievements/01-certification.md",
+    "sourceFileName": "01-certification.md",
+    "sourceFileDir": "achievements",
+    "contentType": "markdown",
+    "flattenedPath": "achievements/01-certification"
+  },
+  "type": "Achievement"
+}

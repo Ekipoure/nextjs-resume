@@ -32,7 +32,7 @@ export default function ProfessionalItem({
                 {title.title}
               </div>
               <div className="text-neutral-11 text-sm leading-none tracking-wide">
-                {title.startDate}–{title.endDate ?? 'Current'}
+                {title.startDate}{title.endDate ?? ''}
               </div>
               {title.description && (
                 <p className="text-sm">{title.description}</p>

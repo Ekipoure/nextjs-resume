@@ -1,7 +1,6 @@
 ---
-achievement: Switchboard Key Holder
-organization: Cerebell Pacific
-completionYear: 2015
+achievement: Blockchain Trading Bot Developer
+organization: Ethereum Trading Bot Team
+completionYear: 2023
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
+Collaborated in a specialized team to create a secure and high-speed **Telegram trading bot** for Ethereum. Implemented key features such as **Auto Buy**, **Auto Snipe**, **Custom Take Profit**, **Anti-Rug Protection**, and **Transaction Speed Control** with live blockchain data integration and optimized trade execution.

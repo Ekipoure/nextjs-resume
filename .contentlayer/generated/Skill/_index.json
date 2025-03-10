@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Proficient",
+    "body": {
+      "raw": "\nNode.js,\nTypeScript,\nJavaScript,\nReact,\nNext.js,\nMongoDB,\nSQL & NoSQL (PostgreSQL, MySQL),\nRESTful APIs,\nGit,\nTailwind CSS,\nMUI,\nVite,\nAgile & Scrum,\nClean Code & Best Practices,\nWordpress,\nHTML & CSS,\nBootstrap 5,\nAuthentication Systems (JWT, OAuth)",
+      "html": "<p>Node.js,\nTypeScript,\nJavaScript,\nReact,\nNext.js,\nMongoDB,\nSQL &#x26; NoSQL (PostgreSQL, MySQL),\nRESTful APIs,\nGit,\nTailwind CSS,\nMUI,\nVite,\nAgile &#x26; Scrum,\nClean Code &#x26; Best Practices,\nWordpress,\nHTML &#x26; CSS,\nBootstrap 5,\nAuthentication Systems (JWT, OAuth)</p>"
+    },
+    "_id": "skills/0.md",
+    "_raw": {
+      "sourceFilePath": "skills/0.md",
+      "sourceFileName": "0.md",
+      "sourceFileDir": "skills",
+      "contentType": "markdown",
+      "flattenedPath": "skills/0"
+    },
+    "type": "Skill"
+  },
+  {
+    "title": "Comfortable",
+    "body": {
+      "raw": "\nASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments\n\n",
+      "html": "<p>ASP.NET Core,\nC#,\nPython,\nFigma,\nLinux,\nCloud Deployments</p>"
+    },
+    "_id": "skills/1.md",
+    "_raw": {
+      "sourceFilePath": "skills/1.md",
+      "sourceFileName": "1.md",
+      "sourceFileDir": "skills",
+      "contentType": "markdown",
+      "flattenedPath": "skills/1"
+    },
+    "type": "Skill"
+  },
+  {
+    "title": "Familiar",
+    "body": {
+      "raw": "\nMarketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems",
+      "html": "<p>Marketing AI Chatbot Integration,\nPostgreSQL,\nAI Agent Systems</p>"
+    },
+    "_id": "skills/2.md",
+    "_raw": {
+      "sourceFilePath": "skills/2.md",
+      "sourceFileName": "2.md",
+      "sourceFileDir": "skills",
+      "contentType": "markdown",
+      "flattenedPath": "skills/2"
+    },
+    "type": "Skill"
+  }
+]

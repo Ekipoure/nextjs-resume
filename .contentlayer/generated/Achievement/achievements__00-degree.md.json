@@ -1,0 +1,18 @@
+{
+  "achievement": "Web Developer",
+  "organization": "Breakout Team",
+  "completionYear": 2023,
+  "body": {
+    "raw": "\nContributed to the development of multiple blockchain-based platforms, including an advanced **Ethereum Token Audit Platform**, a **meme coin interactive website** with gamified airdrops, and an **AI-powered chatbot system**. Focused on building scalable, high-performance web applications using **Next.js**, **TypeScript**, and **MongoDB** in a fully remote international team.\n\n",
+    "html": "<p>Contributed to the development of multiple blockchain-based platforms, including an advanced <strong>Ethereum Token Audit Platform</strong>, a <strong>meme coin interactive website</strong> with gamified airdrops, and an <strong>AI-powered chatbot system</strong>. Focused on building scalable, high-performance web applications using <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>MongoDB</strong> in a fully remote international team.</p>"
+  },
+  "_id": "achievements/00-degree.md",
+  "_raw": {
+    "sourceFilePath": "achievements/00-degree.md",
+    "sourceFileName": "00-degree.md",
+    "sourceFileDir": "achievements",
+    "contentType": "markdown",
+    "flattenedPath": "achievements/00-degree"
+  },
+  "type": "Achievement"
+}
