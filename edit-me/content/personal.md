@@ -1,7 +1,7 @@
 ---
 givenName: Amir
 familyName: Ghafari
-title: Junior Full-stack Developer
+title: Junior Full-Stack Developer
 location: Iran, Tehran
 ---
 
