@@ -2,7 +2,7 @@
 givenName: Amir
 familyName: Ghafari
 title: Junior Full-stack Developer
-location: Iran, Hamedan
+location: Iran, Tehran
 ---
 
 Experienced in Node.js, TypeScript, JavaScript, React, Next.js, and ASP.NET Core, with a strong
