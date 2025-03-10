@@ -1,5 +1,5 @@
 ---
-organization: Web3 - Etherum
+organization: Ethereum
 titles:
   - title: 🛠️ Ethereum Trading Telegram Bot
     startDate: ''
